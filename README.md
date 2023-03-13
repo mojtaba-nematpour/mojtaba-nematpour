@@ -16,7 +16,6 @@ I am 19 yo, a software developer with 3+ years of experience in the field of web
  - Design Patters
  - Software Architucture
  - Scrum
- - Software Architecture
  - Test Driven Development
  - Agile Principles
  - Redis
