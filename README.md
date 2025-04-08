@@ -1,34 +1,38 @@
 # Mojtaba Nematpour
 
-I am 19 yo, a software developer with 3+ years of experience in the field of web, fit for work in agile environments and meet deadlines. Skilled in fast learning, delivering valuable solutions, and Interpersonal skills.
+Energized by innovative thinking and effective communication, I excel at transforming technical challenges into streamlined, team-driven solutions.
 
-##
+I’m an effective communicator and active listener, always eager to embrace diverse perspectives and turn complex challenges into creative solutions. My curiosity and adaptability enable me to seamlessly bridge gaps between technical and non-technical teams, fostering clear communication and proactive problem-solving.
 
-👩‍💻 I'm currently working on "PHP-Symfony/Js-Nestjs" projects
+Dedicated to continuous improvement in every project, I believe that blending technical expertise with strong interpersonal skills is key to lasting success. If you’re passionate about innovative technology and meaningful teamwork, let’s connect.
 
-🧠 I'm currently learning 
- - Design Patterns
- - Software Architecture
+### Get the job done in 
+##### Microservices - Scalable/high-performance Apps - Clean Architecture - System Design - Design Patterns - SOLID - Rest/WebRTC/gRPC
 
-## Tools I worked with
+### Hands-on experience in many great tools and technologies
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat&logo=php&logoColor=777BB4)
+![NodeJS](https://img.shields.io/badge/NodeJS-000000?style=flat&logo=node.js&logoColor=43853D)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=FFFFFF)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat&logo=laravel&logoColor=FF2D20)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
+![NestJS](https://img.shields.io/badge/NestJS-000000?style=flat&logo=nestjs&logoColor=E0234E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=336791)
+![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=flat&logo=mariadb&logoColor=E5522B)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat&logo=redis&logoColor=DC382D)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-000000?style=flat&logo=elasticsearch&logoColor=D11F00)
+![Docker](https://img.shields.io/badge/Kubernetes-000000?style=flat&logo=docker&logoColor=326CE5)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat&logo=kubernetes&logoColor=326CE5)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000000?style=flat&logo=rabbitmq&logoColor=FF6600)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=&logoColor=E11E26)
+![Centrifugo](https://img.shields.io/badge/Centrifugo-000000?style=flat&logo=&logoColor=4FC08D)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Tools as a hobby
+![BurpSuit](https://img.shields.io/badge/BurpSuit-000000?style=flat&logo=&logoColor=F57C00)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=02569B)
+
+### Keep in touch 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Linkedin-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mojtaba-nematpour)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=EA4335)](mailto:mjtba.nmtpr@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=EA4335)]([mailto:mjtba.nmtpr@gmail.com](https://www.instagram.com/mjtba.nmtpr))
